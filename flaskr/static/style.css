@@ -6,11 +6,11 @@ body {
 
 div.header {
   height: 8%;
-  background-color: #01579B;
+  background-color: #3949AB;
   text-align: center;
 }
 
-.header h1,h2,p {
+.header h1 {
   color: white;
   margin: 0;
   padding: 18px 0 0;
@@ -46,7 +46,7 @@ td.center {
 }
 
 div.footer {
-  background-color: #01579B;
+  background-color: #3949AB;
   text-align: center;
   height: 6%;
 }

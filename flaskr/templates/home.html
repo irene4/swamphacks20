@@ -6,35 +6,37 @@
     {{ super() }}
 {% endblock %}
 
+{% block header %}
+  <h1>DMC Color Picker</h1>
+{% endblock %}
+
 {% block content %}
-<h1>DMC Color Picker</h1>
-<p>idk!!!!!</p>
+  <div class="section">
+    <form method="POST" action="/">
+      Pick a color:
+      <input type="color" name="color_in">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
 
-<form method="POST" action="/">
-  Pick a color:
-  <input type="color" name="color_in">
-  <input type="submit" value="Submit">
-</form>
-
-<div class="section">
-{% if results %}
-  <table>
-    <tr>
-      <th>DMC Code</th>
-      <th>Name</th>
-      <th>Color</th>
-    </tr>
-    {% for dmc in results %}
+  <div class="section">
+  {% if results %}
+    <table>
       <tr>
-        <td class="center">{{ dmc[0] }}</td>
-        <td>{{ dmc[1] }}</td>
-        <td style="background-color: {{ dmc[2] }}; border: 1px solid black"></td>
+        <th>DMC Code</th>
+        <th>Name</th>
+        <th>Color</th>
       </tr>
-    {% endfor %}
-  </table>
-{% endif %}
-</div>
-
+      {% for dmc in results %}
+        <tr>
+          <td class="center">{{ dmc[0] }}</td>
+          <td>{{ dmc[1] }}</td>
+          <td style="background-color: {{ dmc[2] }}; border: 1px solid black"></td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% endif %}
+  </div>
 {% endblock %}
 
 

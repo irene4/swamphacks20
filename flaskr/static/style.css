@@ -1,10 +1,23 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  margin: 0px;
+}
+
+div.header {
+  height: 8%;
+  background-color: #01579B;
+  text-align: center;
+}
+
+.header h1,h2,p {
+  color: white;
+  margin: 0;
+  padding: 18px 0 0;
 }
 
 div.content {
-  height: 91%;
+  height: 86%;
   margin: 0px;
 }
 
@@ -13,7 +26,8 @@ div.section {
   border-radius: 5px;
   width: 50%;
   padding: 30px;
-  margin: auto;
+  margin: 3% auto 1%;
+  display: inline-block;
 }
 
 table {
@@ -34,12 +48,12 @@ td.center {
 div.footer {
   background-color: #01579B;
   text-align: center;
-  padding: 1%;
   height: 6%;
-  margin: 0px;
 }
 
 .footer p {
   font-weight: 600;
   color: white;
+  margin: 0;
+  padding: 18px 0 0;
 }

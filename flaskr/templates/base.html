@@ -5,10 +5,14 @@
 </head>
 {% endblock %}
 
+<div class="header">
+  {% block header %}{% endblock %}
+</div>
+
 <div class="content">
-{% block content %}{% endblock %}
+  {% block content %}{% endblock %}
 </div>
 
 <div class="footer">
-{% block footer %}{% endblock %}
+  {% block footer %}{% endblock %}
 </div>

@@ -22,7 +22,7 @@ def index():
         color_in = "#000000"
     target = Color(color_in)
     closests = format(dmcs.getClosest(target, 15))
-    return render_template('home.html', results=closests)
+    return render_template('home.html', results=closests, last=target.asWebHex())
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000)

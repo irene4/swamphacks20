@@ -12,11 +12,21 @@
 
 {% block content %}
   <div class="section">
-    <form method="POST" action="/">
-      Pick a color:
-      <input type="color" name="color_in">
-      <input type="submit" value="Submit">
-    </form>
+    <div class="flex_container">
+      <div style="flex-grow: 1">
+        <h3>Select your color</h3>
+        <form method="POST" action="/">
+          <input type="color" name="color_in" value="{{ last }}"><br>
+          <input type="submit" value="Submit" style="width: 85px">
+        </form>
+      </div>
+      <div style="flex-grow: 1">
+        <h3>Current Color</h3>
+        <table style="width: 85px; height: 85px; margin-top: 12px;">
+          <tr><td style="background-color: {{ last }}; border: 1px solid black"></td></tr>
+        </table>
+      </div>
+    </div>
   </div>
 
   <div class="section">

@@ -1,0 +1,457 @@
+DMC Code,Name,Color
+Ecru,Ecru/off-white,0xfff7e7
+315,Antique Mauve - MED DK,0x7d4246
+Blanc,White,0xeeeeee
+316,Antique Mauve - MED,0xbc757f
+B5200,Snow White,0xfcfcff
+317,Pewter Gray,0x6d6469
+White,White,0xffffff
+318,Steel Gray - LT,0x999b9d
+150,Red - BRIGHT,0xcf0053
+319,Pistachio Green - VY DK,0x3a553b
+151,Pink,0xffcbd7
+320,Pistachio Green - MED,0x608c59
+152,Tawny - DK,0xe1a1a1
+321,Red,0xbd1136
+153,Lilac,0xeac5eb
+322,Baby Blue,0x3a609d
+154,Red - VY DK,0x4b233a
+326,Rose - VY DK,0xac1c37
+155,Forget-me-not Blue,0x9774b6
+327,Violet,0x5e0f77
+156,Blue - MED,0x8577b4
+333,Blue Violet - VY DK,0x6e2e9b
+157,Blue - LT,0xb5b8ea
+334,Baby Blue - MED,0x6085b8
+158,Blue - DK,0x393068
+335,Rose,0xd63d57
+159,Petrol Blue - LT,0xbcb5de
+336,Blue,0x0c275e
+160,Petrol Blue - MED,0x8178a9
+340,Blue Violet - MED,0x996dc3
+161,Petrol Blue - DK,0x60568b
+341,Blue Violet - LT,0xa39ad7
+162,Baby Blue - LT,0xcae7f0
+347,Salmon - VY DK,0xab1b33
+163,Green,0x557a60
+349,Coral - DK,0xc62c38
+164,Green - LT,0xbae4b6
+350,Coral - MED,0xde3f40
+165,Green - BRIGHT,0xe1f477
+351,Coral,0xed625b
+166,Lime Green,0xadc238
+352,Coral - LT,0xf78372
+167,Khaki Brown,0x855d31
+353,Peach,0xfdb4a1
+168,Silver Gray,0xb1aeb7
+355,Terra Cotta - DK,0x97382b
+169,Pewter Gray,0x827d7d
+356,Terra Cotta - MED,0xbe5c4b
+208,Lavender - VY DK,0x9442a7
+367,Pistachio Green - DK,0x446b45
+209,Lavender - DK,0xba72c6
+368,Pistachio Green - LT,0x7fc66d
+210,Lavender - MED,0xd49fe1
+369,Pistachio Green - VY LT,0xcdefa6
+211,Lavender - LT,0xe5bded
+370,Mustard - MED,0x917245
+221,Shell Pink - VY DK,0x792631
+371,Mustard,0x9f8352
+223,Shell Pink - LT,0xbb6864
+372,Mustard - LT,0xad9564
+224,Shell Pink - VY LT,0xe2a598
+400,Mahogany - DK,0x813718
+225,Shell Pink - ULT VY LT,0xf8d9cd
+402,Mahogany - VY LT,0xef9e74
+300,Mahogany - VY DK,0x6c3116
+407,Desert Sand - DK,0xb77159
+301,Mahogany - MED,0xaa5237
+413,Pewter Gray - DK,0x4a4749
+304,Red - MED,0xa10c39
+414,Steel Gray - DK,0x766e72
+307,Lemon,0xfde949
+415,Pearl Gray,0xb8b9bd
+309,Rose - DK,0xba2044
+420,Hazelnut Brown - DK,0x855a30
+310,Black,0x000000
+422,Hazelnut Brown - LT,0xc99a67
+311,Blue - MED,0x002a64
+433,Brown - MED,0x73421e
+312,Baby Blue - VY DK,0x1f3279
+434,Brown - LT,0x8f5332
+435,Brown - VY LT,0xa96538
+600,Cranberry - VY DK,0xbf1c48
+436,Tan,0xc78559
+601,Cranberry - DK,0xc62a53
+437,Tan - LT,0xdaa26f
+602,Cranberry - MED,0xd63f68
+444,Lemon - DK,0xf5bc13
+603,Cranberry,0xed5d84
+445,Lemon - LT,0xfcf999
+604,Cranberry - LT,0xf793b2
+451,Shell Gray - DK,0x887773
+605,Cranberry - VY LT,0xfbacc4
+452,Shell Gray - MED,0xad9994
+606,Orange-red - BRIGHT,0xf70f00
+453,Shell Gray - LT,0xccb8aa
+608,Orange - BRIGHT,0xfd480c
+469,Avocado Green,0x5b6533
+610,Drab Brown - DK,0x6b5039
+470,Avocado Green - LT,0x72813e
+611,Drab Brown,0x7c5f46
+471,Avocado Green - VY LT,0x9eb357
+612,Drab Brown - LT,0xa6885e
+472,Avocado Green - ULT LT,0xd1de75
+613,Drab Brown - VY LT,0xb99f72
+498,Red - DK,0x970b2c
+632,Desert Sand - ULT VY DK,0x7f4232
+500,Blue Green - VY DK,0x1d362a
+640,Beige Gray - VY DK,0x817868
+501,Blue Green - DK,0x2f5446
+642,Beige Gray - DK,0x958d79
+502,Blue Green,0x57826e
+644,Beige Gray - MED,0xc4bea6
+503,Blue Green - MED,0x89b89f
+645,Beaver Gray - VY DK,0x5d5d54
+504,Blue Green - VY LT,0xacdac1
+646,Beaver Gray - DK,0x6b6860
+505,Grass Green - DK,0xceddc1
+647,Beaver Gray - MED,0x908e85
+517,Wedgewood - DK,0x216285
+648,Beaver Gray - LT,0xa7a69f
+518,Wedgewood - LT,0x50819c
+666,Red - BRIGHT,0xce1b33
+519,Sky Blue,0x94b7cb
+676,Old Gold - LT,0xecbf7d
+520,Fern Green - DK,0x384526
+677,Old Gold - VY LT,0xf2dc9f
+522,Fern Green,0x808b6e
+680,Old Gold - DK,0xb07b46
+523,Fern Green - LT,0x959f7a
+699,Green,0x075b26
+524,Fern Green - VY LT,0xaea78e
+700,Green - BRIGHT,0x076c34
+535,Ash Gray - VY LT,0x4b4b49
+701,Green - LT,0x217c36
+543,Beige Brown - ULT VY LT,0xead0b5
+702,Kelly Green,0x379130
+550,Violet - VY DK,0x580e5c
+703,Chartreuse,0x63b330
+552,Violet - MED,0x902f99
+704,Chartreuse - BRIGHT,0x88c53a
+553,Violet,0xa449ac
+712,Cream,0xf6efda
+554,Violet - LT,0xdc9cde
+718,Plum,0xcb2089
+561,Jade - VY DK,0x285e48
+720,Orange Spice - DK,0xc83a24
+562,Jade - MED,0x3b8c5a
+721,Orange Spice - MED,0xf46440
+563,Jade - LT,0x6ed39a
+722,Orange Spice - LT,0xf98756
+564,Jade - VY LT,0x95e4af
+725,Topaz,0xf9c15b
+580,Moss Green - DK,0x355f0b
+726,Topaz - LT,0xfddb63
+581,Moss Green,0x838a29
+727,Topaz - VY LT,0xfde98b
+597,Turquoise,0x52adab
+728,Golden Yellow,0xf2ae3f
+598,Turquoise - LT,0x97d8d3
+729,Old Gold - MED,0xce9657
+730,Olive Green - VY DK,0x63520b
+803,Blue - DEEP,0x202754
+731,Olive Green - DK,0x6b580b
+806,Peacock Blue - DK,0x1d6c87
+732,Olive Green,0x725c0c
+807,Peacock Blue,0x558b9e
+733,Olive Green - MED,0xa78a44
+809,Delft Blue,0x919fd5
+734,Olive Green - LT,0xbb9c54
+813,Blue - LT,0x7fa0c6
+738,Tan - VY LT,0xe2b783
+814,Garnet - DK,0x711033
+739,Tan - ULT VY LT,0xf2deb9
+815,Garnet - MED,0x800b34
+740,Tangerine,0xfd6f1a
+816,Garnet,0x921238
+741,Tangerine - MED,0xfc8b10
+817,Coral Red - VY DK,0xbb1630
+742,Tangerine - LT,0xfdae3c
+818,Baby Pink,0xfededd
+743,Yellow - MED,0xfdd769
+819,Baby Pink - LT,0xfcebde
+744,Yellow - PALE,0xfee88d
+820,Royal Blue - VY DK,0x151264
+745,Yellow - LT PALE,0xfeeba5
+822,Beige Gray - LT,0xe8dfc7
+746,Off White,0xfaf2d5
+823,Blue - DK,0x000b44
+747,Sky Blue - VY LT,0xcee9ea
+824,Blue - VY DK,0x284779
+754,Peach - LT,0xf7c9b0
+825,Blue - DK,0x34588f
+758,Terra Cotta - VY LT,0xe99f83
+826,Blue - MED,0x5075a7
+760,Salmon,0xec8880
+827,Blue - VY LT,0xa4c1de
+761,Salmon - LT,0xf8b4ad
+828,Blue - ULT VY LT,0xc3d7e6
+762,Pearl Gray - VY LT,0xd1d0d2
+829,Golden Olive - VY DK,0x64480c
+772,Yellow Green - VY LT,0xd7efa7
+830,Golden Olive - DK,0x6e501d
+775,Baby Blue - VY LT,0xd4e3ef
+831,Golden Olive - MED,0x7c5f20
+776,Pink - MED,0xfca8ad
+832,Golden Olive,0x9c7230
+777,Red - DEEP,0x9b0042
+833,Golden Olive - LT,0xb99956
+778,Antique Mauve - VY LT,0xdca6a4
+834,Golden Olive - VY LT,0xd2b468
+779,Brown,0x53332d
+838,Beige Brown - VY DK,0x4a3021
+780,Topaz - ULT VY DK,0x945026
+839,Beige Brown - DK,0x5a3c2d
+781,Topaz - VY DK,0xa25f1f
+840,Beige Brown - MED,0x7a5939
+782,Topaz - DK,0xb26923
+841,Beige Brown - LT,0xa37d64
+783,Topaz - MED,0xd0883d
+842,Beige Brown - VY LT,0xcbb094
+791,Cornflower Blue - VY DK,0x2d2068
+844,Beaver Gray - ULT DK,0x494842
+792,Cornflower Blue - DK,0x454b8b
+868,Hazel Nut Brown,0x995c30
+793,Cornflower Blue - MED,0x7c82b5
+869,Hazelnut Brown - VY DK,0x784c28
+794,Cornflower Blue - LT,0xa0b2d7
+890,Pistachio Green - ULT DK,0x324233
+796,Royal Blue - DK,0x272276
+891,Carnation - DK,0xee3246
+797,Royal Blue,0x2b3288
+892,Carnation - MED,0xf44753
+798,Delft Blue - DK,0x4e5ca7
+893,Carnation - LT,0xf66879
+799,Delft Blue - MED,0x6b7fc0
+894,Carnation - VY LT,0xfd95a3
+800,Delft Blue - PALE,0xb5c7e9
+895,Hunter Green - VY DK,0x344b2e
+801,Coffee Brown - DK,0x60391d
+898,Coffee Brown - VY DK,0x532f1b
+899,Rose - MED,0xea6b78
+955,Nile Green - LT,0xa8ebad
+900,Burnt Orange - DK,0xc63117
+956,Geranium,0xf7566d
+902,Garnet - VY DK,0x651329
+957,Geranium - PALE,0xfd99af
+904,Parrot Green - VY DK,0x386324
+958,Seagreen - DK,0x0db294
+905,Parrot Green - DK,0x467924
+959,Seagreen - MED,0x72d0b7
+906,Parrot Green - MED,0x6c9e29
+961,Dusty Rose - DK,0xde586c
+907,Parrot Green - LT,0x9dc72d
+962,Dusty Rose - MED,0xeb7183
+909,Emerald Green - VY DK,0x106b43
+963,Dusty Rose - ULT VY LT,0xfdccd1
+910,Emerald Green - DK,0x10814e
+964,Seagreen - LT,0xa5e4d4
+911,Emerald Green - MED,0x109256
+966,Baby Green - MED,0x94d28a
+912,Emerald Green - LT,0x36b26b
+967,Peach - LT,0xffc2ac
+913,Nile Green - MED,0x55ca7d
+970,Pumpkin - LT,0xfb6721
+915,Plum - DK,0x95085a
+971,Pumpkin,0xfc670d
+917,Plum - MED,0xac1071
+972,Canary - DEEP,0xfb9f11
+918,Red Copper - DK,0x883630
+973,Canary - BRIGHT,0xfccd2d
+919,Red Copper,0x9b371b
+975,Golden Brown - DK,0x813c11
+920,Copper - MED,0xab4836
+976,Golden Brown - MED,0xcf7532
+921,Copper,0xc0573d
+977,Golden Brown - LT,0xec8f43
+922,Copper - LT,0xdd6e4c
+986,Forest Green - VY DK,0x2e5230
+924,Gray Green - VY DK,0x384a4a
+987,Forest Green - DK,0x436838
+926,Gray Green - MED,0x617674
+988,Forest Green - MED,0x66924a
+927,Gray Green - LT,0x9fa8a5
+989,Forest Green,0x71a74e
+928,Gray Green - VY LT,0xc0c6c0
+991,Aquamarine - DK,0x135f55
+930,Antique Blue - DK,0x495c6b
+992,Aquamarine - LT,0x42b59e
+931,Antique Blue - MED,0x667684
+993,Aquamarine - VY LT,0x62d8b6
+932,Antique Blue - LT,0x93a0af
+995,Electric Blue - DK,0x0061b0
+934,Avocado Green - BLACK,0x323324
+996,Electric Blue - MED,0x49a8eb
+935,Avocado Green - DK,0x383a2a
+3011,Khaki Green - DK,0x655935
+936,Avocado Green - VY DK,0x3f4227
+3012,Khaki Green - MED,0x8b7b4e
+937,Avocado Green - MED,0x434f2c
+3013,Khaki Green - LT,0xafa97b
+938,Coffee Brown - ULT DK,0x45271a
+3021,Brown Gray - VY DK,0x50403b
+939,Blue - VY DK,0x09092f
+3022,Brown Gray - MED,0x848274
+943,Aquamarine - MED,0x009a77
+3023,Brown Gray - LT,0xa29b86
+945,Tawny,0xf6c19a
+3024,Brown Gray - VY LT,0xbeb8ac
+946,Burnt Orange - MED,0xed4115
+3031,Mocha Brown - VY DK,0x423014
+947,Burnt Orange,0xfc4f16
+3032,Mocha Brown - MED,0x9d8868
+948,Peach - VY LT,0xfde6d3
+3033,Mocha Brown - VY LT,0xdbc7ad
+950,Desert Sand - LT,0xe5ac8d
+3041,Antique Violet - MED,0x866a76
+951,Tawny - LT,0xfaddb6
+3042,Antique Violet - LT,0xaf98a0
+954,Nile Green,0x6fda8a
+3045,Yellow Beige - DK,0xaf8152
+3046,Yellow Beige - MED,0xceb074
+3731,Dusty Rose - VY DK,0xc34c5c
+3047,Yellow Beige - LT,0xead8ab
+3733,Dusty Rose,0xea7e86
+3051,Green Gray - DK,0x4c4c1e
+3740,Antique Violet - DK,0x71535d
+3052,Green Gray - MED,0x787e5c
+3743,Antique Violet - VY LT,0xcfc2c9
+3053,Green Gray,0x999d75
+3746,Blue Violet - DK,0x844ab5
+3064,Desert Sand,0xba7056
+3747,Blue Violet - VY LT,0xd0c5ec
+3072,Beaver Gray - VY LT,0xd2d2ca
+3750,Antique Blue - VY DK,0x1d4552
+3078,Golden Yellow - VY LT,0xfcf6b6
+3752,Antique Blue - VY LT,0xbac9cc
+3325,Baby Blue - LT,0xadcde7
+3753,Antique Blue - ULT VY LT,0xd9e6ec
+3326,Rose - LT,0xf9979c
+3755,Baby Blue (?),0x81a5d8
+3328,Salmon - DK,0xbe444a
+3756,Baby Blue,0xe9f4fa
+3340,Apricot - MED,0xfd6b4f
+3760,Wedgewood - MED,0x467293
+3341,Apricot,0xfd8e78
+3761,Sky Blue - LT,0xb1d0df
+3345,Hunter Green - DK,0x40552e
+3765,Peacock Blue - VY DK,0x175e78
+3346,Hunter Green,0x56743b
+3766,Peacock Blue - LT,0x4b8aa1
+3347,Yellow Green - MED,0x6d9646
+3768,Gray Green - DK,0x4c605f
+3348,Yellow Green - LT,0xbedf74
+3770,Tawny - VY LT,0xfef1d8
+3350,Dusty Rose - ULT DK,0xaa3949
+3771,Peach - DK,0xe8ac9b
+3354,Dusty Rose - LT,0xefa5ac
+3772,Desert Sand - VY DK,0x995744
+3362,Pine Green - DK,0x49523c
+3773,Desert Sand - MED,0xcf866d
+3363,Pine Green - MED,0x617451
+3774,Desert Sand - VY LT,0xf3cfb4
+3364,Pine Green,0x8e9b6d
+3776,Mahogany - LT,0xc96444
+3371,Black Brown,0x36220e
+3777,Terra Cotta - VY DK,0x922f25
+3607,Plum - LT,0xd94c9d
+3778,Terra Cotta - LT,0xd2705c
+3608,Plum - VY LT,0xec81be
+3779,Terra Cotta - ULT VY LT,0xf2ab95
+3609,Plum - ULT LT,0xf6b0df
+3781,Mocha Brown - DK,0x593f2b
+3685,Mauve - VY DK,0x79263b
+3782,Mocha Brown - LT,0xb69d80
+3687,Mauve,0xb5455d
+3787,Brown Gray - DK,0x62524c
+3688,Mauve - MED,0xdc7c86
+3790,Beige Gray - ULT DK,0x6d5a4b
+3689,Mauve - LT,0xf8bbc8
+3799,Pewter Gray - VY DK,0x39393d
+3705,Melon - DK,0xf2494f
+3801,Melon - VY DK,0xe4353d
+3706,Melon - MED,0xfd6e70
+3802,Antique Mauve - VY DK,0x672a33
+3708,Melon - LT,0xfda0ae
+3803,Mauve - DK,0x872a43
+3712,Salmon - MED,0xd95d5d
+3804,Cyclamen Pink - DK,0xce2b63
+3713,Salmon - VY LT,0xfdd5d0
+3805,Cyclamen Pink,0xdf3c73
+3716,Dusty Rose - VY LT,0xfcafb9
+3806,Cyclamen Pink - LT,0xf15a91
+3721,Shell Pink - DK,0x933b3d
+3807,Cornflower Blue,0x4b599e
+3722,Shell Pink - MED,0xa04b4c
+3808,Turquoise - ULT VY DK,0x03535c
+3726,Antique Mauve - DK,0x95565c
+3809,Turquoise - VY DK,0x136a75
+3727,Antique Mauve - LT,0xda9ea6
+3810,Turquoise - DK,0x2d8d98
+3811,Turquoise - VY LT,0xa8e2e5
+3839,Lavender Blue - MED,0x7a7ec5
+3812,Seagreen - VY DK,0x07a184
+3840,Lavender Blue - LT,0xb2bdea
+3813,Blue Green - LT,0x86c3ab
+3841,Baby Blue - PALE,0xd9eaf2
+3814,Aquamarine,0x0b8673
+3842,Wedgewood - DK,0x06506a
+3815,Celadon Green - DK,0x437259
+3843,Electric Blue,0x28a3de
+3816,Celadon Green,0x60937a
+3844,Bright Turquoise - DK,0x1f7fa0
+3817,Celadon Green - LT,0x81c6a4
+3845,Bright Turquoise - MED,0x2badd1
+3818,Emerald Green - ULT VY DK,0x005d2e
+3846,Bright Turquoise - LT,0x5eccec
+3819,Moss Green - LT,0xccc959
+3847,Teal Green - DK,0x186358
+3820,Straw - DK,0xdba53e
+3848,Teal Green - MED,0x207e72
+3821,Straw,0xebbb52
+3849,Teal Green - LT,0x35b193
+3822,Straw - LT,0xf7d169
+3850,Bright Green - DK,0x208b46
+3823,Yellow - ULT PALE,0xfef5cd
+3851,Bright Green - LT,0x61bb84
+3824,Apricot - LT,0xfcae99
+3852,Straw - VY DK,0xe3a730
+3825,Pumpkin - PALE,0xfea370
+3853,Autumn Gold - DK,0xef8125
+3826,Golden Brown,0xb16633
+3854,Autumn Gold - MED,0xfbac56
+3827,Golden Brown - PALE,0xeaa664
+3855,Autumn Gold - LT,0xfddfa0
+3828,Hazelnut Brown,0xaa7c43
+3856,Mahogany - ULT VY LT,0xfdbe8e
+3829,Old Gold - VY DK,0xa7671d
+3857,Rosewood - DK,0x6a2f26
+3830,Terra Cotta,0xa94138
+3858,Rosewood - MED,0x803a32
+3831,Raspberry - DK,0xc12b52
+3859,Rosewood - LT,0xba7a6c
+3832,Raspberry - MED,0xe36370
+3860,Cocoa,0x896362
+3833,Raspberry - LT,0xea8b96
+3861,Cocoa - LT,0xac8583
+3834,Grape - DK,0x6a2258
+3862,Mocha Beige - DK,0x6e492a
+3835,Grape - MED,0x924d78
+3863,Mocha Beige - MED,0x94725d
+3836,Grape - LT,0xc597b9
+3864,Mocha Beige - LT,0xc9aa92
+3837,Lavender - ULT DK,0x8a2a8f
+3865,Winter White,0xfffdf9
+3838,Lavender Blue - DK,0x606bad
+3866,Mocha Brown - ULT VY LT,0xf0e6d7

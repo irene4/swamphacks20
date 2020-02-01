@@ -42,5 +42,8 @@ class Color:
     def asHex(self) -> str:
         return '{0:#0{1}x}'.format(self.r << 16 | self.g << 8 | self.b, 8)
 
+    def asWebHex(self) -> str:
+        return '#{0:0{1}x}'.format(self.r << 16 | self.g << 8 | self.b, 6)
+
     def __repr__(self):
         return repr(self.asTuple())

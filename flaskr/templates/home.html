@@ -16,6 +16,7 @@
   <input type="submit" value="Submit">
 </form>
 
+<div class="section">
 {% if results %}
   <table>
     <tr>
@@ -25,13 +26,14 @@
     </tr>
     {% for dmc in results %}
       <tr>
-        <th>{{ dmc[0] }}</th>
-        <th>{{ dmc[1] }}</th>
-        <th>{{ dmc[2] }}</th>
+        <td class="center">{{ dmc[0] }}</td>
+        <td>{{ dmc[1] }}</td>
+        <td style="background-color: {{ dmc[2] }}; border: 1px solid black"></td>
       </tr>
     {% endfor %}
   </table>
 {% endif %}
+</div>
 
 {% endblock %}
 

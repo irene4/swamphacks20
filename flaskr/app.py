@@ -11,7 +11,7 @@ dmc_file.load('static/dmc_refs.csv', dmcs)
 def format(close : list) -> list:
     out_list = []
     for i in close:
-        out_list.append((i[0], dmcs.get(i[0])[0], dmcs.get(i[0])[1].asHex()))
+        out_list.append((i[0], dmcs.get(i[0])[0], dmcs.get(i[0])[1].asWebHex()))
     return out_list
 
 @app.route("/", methods=['GET', 'POST'])

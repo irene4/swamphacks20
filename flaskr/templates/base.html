@@ -1,8 +1,14 @@
 {% block head %}
-     	 	<link rel="stylesheet" href="style.css">
-    <title>{% block title %}Hello{% endblock %} - My Webpage</title>
+<head>
+ 	 	<link rel="stylesheet" href="/static/style.css">
+    <title>{% block title %}{% endblock %} - My Webpage</title>
+</head>
 {% endblock %}
-<div id="content">{% block content %}{% endblock %}</div>
+
+<div id="content">
+{% block content %}{% endblock %}
+</div>
+
 <div id="footer">
-        {% block footer %}
-{% endblock %}</div>
+{% block footer %}{% endblock %}
+</div>

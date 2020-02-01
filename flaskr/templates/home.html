@@ -1,20 +1,19 @@
-<extends "base.html" %>
-<block title %>Website!</block>
-<block head %>
-<style type="text/css">
-        h1 {color:red;}
-        p {color:blue;}
-    </style>
-    
-<endblock %>
-<block content %>
+{% extends "base.html" %}
+
+{% block title %}Website!{% endblock %}
+
+{% block head %}
+    {{ super() }}
+{% endblock %}
+
+{% block content %}
 <h1>Noooo!!!</h1>
 <p>idk!!!!!</p>
 
 <form method="POST" action="/process">
-    RGB: 
-    <input type="text" value="Plz enter" name="rgbval"> 
-    or Hex: 
+    RGB:
+    <input type="text" value="Plz enter" name="rgbval">
+    or Hex:
     <input type="text" value="Plz!" name="hexval">
     <input type="submit" value="Submit">
 </form>
@@ -22,8 +21,8 @@
 {% if rgb %}
   <h1>{{rgb}}</h1>
   {% endif %}
-  {% if hex %} 
+  {% if hex %}
   <p>{{hex}}</p>
   {% endif %}
-    
-<endblock %>
+
+{% endblock %}

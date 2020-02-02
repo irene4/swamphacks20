@@ -11,6 +11,7 @@
 {% endblock %}
 
 {% block content %}
+
   <div class="section">
     <div class="flex_container">
       <div style="flex-grow: 1">
@@ -41,7 +42,7 @@
         <tr>
           <td class="center">{{ dmc[0] }}</td>
           <td>{{ dmc[1] }}</td>
-          <td style="background-color: {{ dmc[2] }}; border: 1px solid black"></td>
+          <td class="tooltip" style="background-color: {{ dmc[2] }}; border: 1px solid black"><span class="tooltiptext">{{ dmc[2] }}</span></td>
         </tr>
       {% endfor %}
     </table>
